@@ -1,6 +1,3 @@
-Certainly! Here's a simplified version of the README for the QR Scanner Login System using emojis to represent key sections and actions:
-
----
 
 # 📱 QR Scanner Login System
 
@@ -14,6 +11,7 @@ The QR Scanner Login System is a secure and innovative solution designed to stre
 - **🔐 QR Code Login**: For returning users, login is as simple as scanning the QR code provided during registration. The QR scanner detects the JWT encryption, ensuring a secure and hassle-free authentication process.
 - **📧 Gmail API Integration**: Utilizes the Gmail API to send emails, ensuring reliable delivery and integration with users' Gmail accounts.
 - **🔒 Enhanced Security**: Uses JWT for encrypting QR codes, adding an extra layer of security to protect user data and authentication processes.
+- 🗃️ Database Management with MongoDB 🗃️
 
 
 
