@@ -22,4 +22,6 @@ The QR Scanner Login System is a secure and innovative solution designed to stre
 - **📝 To Register**: Navigate to the registration page and enter your email address. Check your email for the registration confirmation and QR code, which contains encrypted JWT.
 - **🔑 To Login**: On the login page, use a QR scanner to scan the QR code sent to your email during registration. The system will decrypt the JWT from the QR code to authenticate the user.
 
+  ## 📱 Demo
+
 
